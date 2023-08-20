@@ -1,0 +1,66 @@
+body {
+    background: rgb(30,15,50);
+    background: linear-gradient(90deg, rgba(30,15,50,1) 0%, rgba(26,26,102,1) 46%, rgba(42,4,77,1) 98%);
+}
+header {
+    color: white;
+    font-size: 1em;
+    margin-bottom: 2em;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    color: #fafafa;
+    text-decoration: none;
+    opacity: .6;
+}
+main.start {
+    color: white;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15vh;
+    margin-bottom:  15vh;
+}
+
+main.panel {
+    color: white;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom:  1em;
+}
+div.card {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: #191819;
+    font-size: 0.5em;
+}
+div.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2em;
+
+}
+div.buttons a, button.btn-grad {
+    text-decoration: none;
+    border: none;
+    color: #fafafa;
+    font-size: 0.5em;
+    background: rgb(74,41,119);
+    background: linear-gradient(90deg, rgba(74,41,119,1) 0%, rgba(140,14,138,1) 100%);
+    
+    padding: 1em 2em;
+    border-radius: 2em;
+    
+}
+div.buttons a:hover, button.btn-grad:hover {
+    color: #fafafa;
+    opacity: .6;
+}
