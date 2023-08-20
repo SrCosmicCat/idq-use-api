@@ -212,10 +212,14 @@
 							body: form,
 						}
 					);
-                    console.log(response);
+                    
 					const { data } = await response.json();
-					console.log(data);
-					console.log(response);
+					
+					if (response.ok) {
+                        alert("Documento cargado correctamente");
+                    } else {
+                        alert("Error al cargar el documento");
+                    }
 				});
 		</script>
 	</body>
