@@ -21,12 +21,9 @@ Si deseas contribuir a mejorar esta página, agradecemos tu interés. Dado que e
 
 ## Créditos
 
-Esta página fue desarrollada por:
+Este proyecto fue desarrollado por:
 
-- [Tu Nombre](https://github.com/TuUsuario) - Desarrollo de la página y consumo de la API.
-
-Agradecemos a los organizadores del hackatón y a los colaboradores por su apoyo durante el evento.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+- CampTech
+- [Gerardo Alvarez Alvarez](https://github.com/gerardoaaxg) - Gerardo Alvarez Alvarez
+- [Miguel Angel Diosdado Rodriguez](https://github.com/SrCosmicCat) - Miguel Angel Diosdado Rodriguez
+- [Erick Pinzon Huerta](https://github.com/erickpinzon18) - Erick Pinzon Huerta
